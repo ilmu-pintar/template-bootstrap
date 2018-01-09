@@ -1,1 +1,1 @@
-# template-bootstrap by la
+# template-bootstrap
